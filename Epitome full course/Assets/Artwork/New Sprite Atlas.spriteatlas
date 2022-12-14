@@ -63,7 +63,9 @@ SpriteAtlas:
   - {fileID: -1475614799, guid: 81b877586a750194fac5335cb4761642, type: 3}
   - {fileID: -1308883774, guid: 81b877586a750194fac5335cb4761642, type: 3}
   - {fileID: 1691843943, guid: 81b877586a750194fac5335cb4761642, type: 3}
+  - {fileID: -828791232, guid: 81b877586a750194fac5335cb4761642, type: 3}
   - {fileID: -893262931, guid: 81b877586a750194fac5335cb4761642, type: 3}
+  - {fileID: -1297748638, guid: 81b877586a750194fac5335cb4761642, type: 3}
   - {fileID: -550702378, guid: 81b877586a750194fac5335cb4761642, type: 3}
   - {fileID: 1145323680, guid: 81b877586a750194fac5335cb4761642, type: 3}
   - {fileID: 84296960, guid: 81b877586a750194fac5335cb4761642, type: 3}
@@ -115,7 +117,9 @@ SpriteAtlas:
   - Floor_3
   - Floor_0
   - Floor_1
+  - Chest_1
   - Floor_8
+  - Chest_0
   - Floor_9
   - Wall
   - Torch_8

@@ -13,8 +13,8 @@ namespace Assets.Scripts
             if (!collected)
             {
                 base.OnCollect();
-                GetComponent<SpriteRenderer>().sprite = emptyChest; 
-                Debug.Log("Grant " + pesosAmount + " pesos!");
+                GetComponent<SpriteRenderer>().sprite = emptyChest;
+                GameManager.instance.ShowText("+" + pesosAmount + " pesos!", 25, Color.yellow, transform.position, Vector3.up * 15, 3.0f);
             }
 
         }

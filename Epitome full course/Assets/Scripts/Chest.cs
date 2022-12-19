@@ -14,7 +14,7 @@ namespace Assets.Scripts
             {
                 base.OnCollect();
                 GetComponent<SpriteRenderer>().sprite = emptyChest;
-                GameManager.instance.ShowText("+" + pesosAmount + " pesos!", 25, Color.yellow, transform.position, Vector3.up * 15, 3.0f);
+                GameManager.instance.ShowText("+" + pesosAmount + " pesos!", 25, Color.yellow, transform.position, Vector3.up * 15, 1.0f);
             }
 
         }

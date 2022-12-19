@@ -52,6 +52,14 @@ SpriteAtlas:
   m_PackedSprites:
   - {fileID: 1563386412, guid: 81b877586a750194fac5335cb4761642, type: 3}
   - {fileID: 177815164, guid: 81b877586a750194fac5335cb4761642, type: 3}
+  - {fileID: 713043859, guid: 81b877586a750194fac5335cb4761642, type: 3}
+  - {fileID: 1198901751, guid: 81b877586a750194fac5335cb4761642, type: 3}
+  - {fileID: 1304568130, guid: 81b877586a750194fac5335cb4761642, type: 3}
+  - {fileID: 1173953168, guid: 81b877586a750194fac5335cb4761642, type: 3}
+  - {fileID: -1176818312, guid: 81b877586a750194fac5335cb4761642, type: 3}
+  - {fileID: -1227591541, guid: 81b877586a750194fac5335cb4761642, type: 3}
+  - {fileID: -1363597284, guid: 81b877586a750194fac5335cb4761642, type: 3}
+  - {fileID: -1601898973, guid: 81b877586a750194fac5335cb4761642, type: 3}
   - {fileID: 830521250, guid: 81b877586a750194fac5335cb4761642, type: 3}
   - {fileID: 665903555, guid: 81b877586a750194fac5335cb4761642, type: 3}
   - {fileID: 938368770, guid: 81b877586a750194fac5335cb4761642, type: 3}
@@ -106,6 +114,14 @@ SpriteAtlas:
   m_PackedSpriteNamesToIndex:
   - HealingFountain_2
   - HealingFountain_1
+  - Weapon_2
+  - Weapon_3
+  - Weapon_0
+  - Weapon_1
+  - Weapon_6
+  - Weapon_7
+  - Weapon_4
+  - Weapon_5
   - Floor_11
   - Floor_10
   - HealingFountan_0

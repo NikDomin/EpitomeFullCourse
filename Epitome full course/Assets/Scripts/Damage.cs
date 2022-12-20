@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Assets.Scripts
 {
-    public class Damage : MonoBehaviour
+    public struct Damage 
     {
         public Vector3 origin;
         public int damageAmount;
